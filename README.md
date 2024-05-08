@@ -1,5 +1,8 @@
 # CropCure-AI
 
+
+![potato_classifier-ezgif com-video-to-gif-converter](https://github.com/MadhumithaKolkar/CropCure-AI/assets/54811937/6be78a5a-7963-4587-8c9c-8c6e9dae2c26)
+
 CropCure is an innovative application designed to revolutionize the detection of blight in potato plants using cutting-edge Machine Learning technology. By leveraging Convolutional Neural Networks (CNN), CropCure can accurately identify and categorize blight types, including early blight, late blight, and normal leaves, with an impressive 96% accuracy rate.
 
 Key Features:
